@@ -1,0 +1,3 @@
+This folder implements two tasks:
+Task 1: Airport with country code Iceland or latitude > 40
+Task 2: Count the occurrence of timestamp of country whose altitude is even
